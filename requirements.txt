@@ -1,0 +1,6 @@
+streamlit
+pandas
+py2neo
+neo4j
+fuzzywuzzy
+python-Levenshtein
