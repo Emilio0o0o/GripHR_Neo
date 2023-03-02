@@ -15,9 +15,8 @@ streamlit run app.py
 2. The app then queries the database for all the nodes and edges
 3. The nodes and edges are then passed to a dataframe, used by the streamlit app, but any other format can be used as well
 
-``` mermaid
+```mermaid
 classDiagram
-title: Database Model for Grip
   class Employee {
     Employee_ID: int
     Employee_Name: string
